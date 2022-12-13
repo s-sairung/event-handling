@@ -1,0 +1,15 @@
+E:\Documents\Visual Studio Code\event-handling\obj\Debug\net6.0-windows\event-handling.csproj.AssemblyReference.cache
+E:\Documents\Visual Studio Code\event-handling\obj\Debug\net6.0-windows\event-handling.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Visual Studio Code\event-handling\obj\Debug\net6.0-windows\event-handling.AssemblyInfoInputs.cache
+E:\Documents\Visual Studio Code\event-handling\obj\Debug\net6.0-windows\event-handling.AssemblyInfo.cs
+E:\Documents\Visual Studio Code\event-handling\obj\Debug\net6.0-windows\event-handling.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio Code\event-handling\bin\Debug\net6.0-windows\event-handling.exe
+E:\Documents\Visual Studio Code\event-handling\bin\Debug\net6.0-windows\event-handling.deps.json
+E:\Documents\Visual Studio Code\event-handling\bin\Debug\net6.0-windows\event-handling.runtimeconfig.json
+E:\Documents\Visual Studio Code\event-handling\bin\Debug\net6.0-windows\event-handling.dll
+E:\Documents\Visual Studio Code\event-handling\bin\Debug\net6.0-windows\event-handling.pdb
+E:\Documents\Visual Studio Code\event-handling\obj\Debug\net6.0-windows\event-handling.dll
+E:\Documents\Visual Studio Code\event-handling\obj\Debug\net6.0-windows\refint\event-handling.dll
+E:\Documents\Visual Studio Code\event-handling\obj\Debug\net6.0-windows\event-handling.pdb
+E:\Documents\Visual Studio Code\event-handling\obj\Debug\net6.0-windows\event-handling.genruntimeconfig.cache
+E:\Documents\Visual Studio Code\event-handling\obj\Debug\net6.0-windows\ref\event-handling.dll
